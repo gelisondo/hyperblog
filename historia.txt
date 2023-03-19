@@ -8,6 +8,8 @@ Tambíen brindo clases de técnologias front end como lo son HTML-CSS-JS.
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Anita platzi es una persona que colabora a este proyecto open source
